@@ -1,0 +1,110 @@
+#main{
+	width:600px;
+	margin:0 auto;
+	background-color:white;
+	padding:5px;
+	border-width:2px;
+	border-color:#2c3e50;
+	border-style:solid;
+	border-radius:10px;
+}
+
+.image1{
+	width:150px;
+	text-align:center;
+	
+}
+
+.loginform{
+	width:450px;
+	margin:0 auto;
+}
+
+.inputvalues{
+	width:430px;
+	margin : 0 auto;
+	padding:5px;
+}
+#login-btn{
+	background-color:#2ecc71;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:10px;
+	
+}
+
+#register-btn{
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+#logout-btn{
+	background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-top:10px;
+	
+}
+
+.button{
+	padding-top:20px;
+	width:800px;
+	margin:20px;
+	background-color:white;
+}
+#mainn{
+	width:600px;
+	margin:0 auto;
+	background-color:white;
+	padding:5px;
+	border-width:2px;
+	border-color:#2c3e50;
+	border-style:solid;
+}
+
+
+#inner{
+	height:500px;
+	width:1100px;
+	margin:0 auto;
+	background-color:white;
+	padding:5px;
+	border-width:2px;
+	border-color:#2c3e50;
+	border-style:solid;
+	border-radius:10px;
+	
+}
+#bto{
+	margin-top:10px;
+	margin-left:10px;
+	border-style:solid;
+	}
+	
+#button1{
+   background-color: steel blue; 
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius:25px;
+	}
+	

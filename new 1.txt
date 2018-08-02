@@ -1,0 +1,1 @@
+<input style="font-weight:bold" type="button" value="LOGOUT" id="button2"  class="btn-danger"/>
